@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Infilon\\StudentManagementSystem_ShubhamPadiya_API\\StudentManagement.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C87C79B5-94AF-443C-B353-B589FF25175B}|StudentManagement.API.csproj|d:\\infilon\\studentmanagementsystem_shubhampadiya_api\\studentmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C87C79B5-94AF-443C-B353-B589FF25175B}|StudentManagement.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C87C79B5-94AF-443C-B353-B589FF25175B}|StudentManagement.API.csproj|d:\\infilon\\studentmanagementsystem_shubhampadiya_api\\studentmanagement.api\\auth\\jwtgenerate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C87C79B5-94AF-443C-B353-B589FF25175B}|StudentManagement.API.csproj|solutionrelative:auth\\jwtgenerate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C87C79B5-94AF-443C-B353-B589FF25175B}|StudentManagement.API.csproj|d:\\infilon\\studentmanagementsystem_shubhampadiya_api\\studentmanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C87C79B5-94AF-443C-B353-B589FF25175B}|StudentManagement.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF41063-001D-4CB2-8C72-2F5F3666B1CF}|..\\StudentManagement.Application\\StudentManagement.Application.csproj|d:\\infilon\\studentmanagementsystem_shubhampadiya_api\\studentmanagement.application\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BAB2086-F57A-49AA-9901-201803307BA7}|..\\StudentManagement.Infrastructure\\StudentManagement.Infrastructure.csproj|d:\\infilon\\studentmanagementsystem_shubhampadiya_api\\studentmanagement.infrastructure\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF41063-001D-4CB2-8C72-2F5F3666B1CF}|..\\StudentManagement.Application\\StudentManagement.Application.csproj|d:\\infilon\\studentmanagementsystem_shubhampadiya_api\\studentmanagement.application\\interfaces\\repositories\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C87C79B5-94AF-443C-B353-B589FF25175B}|StudentManagement.API.csproj|d:\\infilon\\studentmanagementsystem_shubhampadiya_api\\studentmanagement.api\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C87C79B5-94AF-443C-B353-B589FF25175B}|StudentManagement.API.csproj|solutionrelative:controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62BAF7FA-4186-4B16-BF6D-143A6A422E2C}|..\\StudentManagement.Domain\\StudentManagement.Domain.csproj|d:\\infilon\\studentmanagementsystem_shubhampadiya_api\\studentmanagement.domain\\entities\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62BAF7FA-4186-4B16-BF6D-143A6A422E2C}|..\\StudentManagement.Domain\\StudentManagement.Domain.csproj|d:\\infilon\\studentmanagementsystem_shubhampadiya_api\\studentmanagement.domain\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JWTGenerate.cs",
+              "DocumentMoniker": "D:\\Infilon\\StudentManagementSystem_ShubhamPadiya_API\\StudentManagement.API\\Auth\\JWTGenerate.cs",
+              "RelativeDocumentMoniker": "Auth\\JWTGenerate.cs",
+              "ToolTip": "D:\\Infilon\\StudentManagementSystem_ShubhamPadiya_API\\StudentManagement.API\\Auth\\JWTGenerate.cs",
+              "RelativeToolTip": "Auth\\JWTGenerate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T17:17:31.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Infilon\\StudentManagementSystem_ShubhamPadiya_API\\StudentManagement.API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Infilon\\StudentManagementSystem_ShubhamPadiya_API\\StudentManagement.API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAGwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T17:16:14.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Infilon\\StudentManagementSystem_ShubhamPadiya_API\\StudentManagement.API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Infilon\\StudentManagementSystem_ShubhamPadiya_API\\StudentManagement.API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-25T17:12:32.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "D:\\Infilon\\StudentManagementSystem_ShubhamPadiya_API\\StudentManagement.Infrastructure\\Repositories\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "..\\StudentManagement.Infrastructure\\Repositories\\StudentRepository.cs",
+              "ToolTip": "D:\\Infilon\\StudentManagementSystem_ShubhamPadiya_API\\StudentManagement.Infrastructure\\Repositories\\StudentRepository.cs",
+              "RelativeToolTip": "..\\StudentManagement.Infrastructure\\Repositories\\StudentRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T16:56:39.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "D:\\Infilon\\StudentManagementSystem_ShubhamPadiya_API\\StudentManagement.Application\\Interfaces\\Repositories\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "..\\StudentManagement.Application\\Interfaces\\Repositories\\IStudentRepository.cs",
+              "ToolTip": "D:\\Infilon\\StudentManagementSystem_ShubhamPadiya_API\\StudentManagement.Application\\Interfaces\\Repositories\\IStudentRepository.cs",
+              "RelativeToolTip": "..\\StudentManagement.Application\\Interfaces\\Repositories\\IStudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T16:56:13.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "D:\\Infilon\\StudentManagementSystem_ShubhamPadiya_API\\StudentManagement.Application\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "..\\StudentManagement.Application\\Services\\StudentService.cs",
+              "ToolTip": "D:\\Infilon\\StudentManagementSystem_ShubhamPadiya_API\\StudentManagement.Application\\Services\\StudentService.cs",
+              "RelativeToolTip": "..\\StudentManagement.Application\\Services\\StudentService.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAmwGoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T16:53:14.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class.cs",
+              "DocumentMoniker": "D:\\Infilon\\StudentManagementSystem_ShubhamPadiya_API\\StudentManagement.Domain\\Entities\\Class.cs",
+              "RelativeDocumentMoniker": "..\\StudentManagement.Domain\\Entities\\Class.cs",
+              "ToolTip": "D:\\Infilon\\StudentManagementSystem_ShubhamPadiya_API\\StudentManagement.Domain\\Entities\\Class.cs",
+              "RelativeToolTip": "..\\StudentManagement.Domain\\Entities\\Class.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T16:52:26.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Infilon\\StudentManagementSystem_ShubhamPadiya_API\\StudentManagement.Domain\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "..\\StudentManagement.Domain\\Entities\\Student.cs",
+              "ToolTip": "D:\\Infilon\\StudentManagementSystem_ShubhamPadiya_API\\StudentManagement.Domain\\Entities\\Student.cs",
+              "RelativeToolTip": "..\\StudentManagement.Domain\\Entities\\Student.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAWwBcAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T16:51:59.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "D:\\Infilon\\StudentManagementSystem_ShubhamPadiya_API\\StudentManagement.API\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentsController.cs",
+              "ToolTip": "D:\\Infilon\\StudentManagementSystem_ShubhamPadiya_API\\StudentManagement.API\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBAAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T16:49:49.638Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
